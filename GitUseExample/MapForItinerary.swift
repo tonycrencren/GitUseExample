@@ -11,3 +11,7 @@ import Foundation
 class MapForItinerary: NSObject {
     
 }
+
+func sayHello() {
+    print("Hello from MapForItinerary")
+}
